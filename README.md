@@ -1,4 +1,4 @@
-# Native File Chooser
+# JNativeChooser
 
 Seletor de arquivos nativo para aplicações Java Swing no Windows usando JNA.
 
@@ -8,7 +8,7 @@ Adicione a dependência no seu `pom.xml`:
 ```xml
 <dependency>
   <groupId>io.github.matheuscomaru</groupId>
-  <artifactId>native-file-chooser</artifactId>
+  <artifactId>JNativeChooser</artifactId>
   <version>1.0.0</version>
 </dependency>
 ```

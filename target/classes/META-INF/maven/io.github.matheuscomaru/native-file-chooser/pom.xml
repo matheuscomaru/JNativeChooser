@@ -1,9 +1,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.github.matheuscomaru</groupId>
-  <artifactId>JNativeChooser</artifactId>
+  <artifactId>native-file-chooser</artifactId>
   <version>1.0.0</version>
-  <name>JNativeChooser</name>
+  <name>Native File Chooser</name>
   <description>Seletor de arquivos nativo para aplicações Java Swing no Windows usando JNA</description>
   <url>https://github.com/seunome/native-file-chooser</url>
   <licenses>
@@ -14,9 +14,9 @@
   </licenses>
   <developers>
     <developer>
-      <id>matheuscomaru</id>
-      <name>Matheus Comaru</name>
-      <email>matheuscomaru@gmail.com</email>
+      <id>seunome</id>
+      <name>Seu Nome</name>
+      <email>seu@email.com</email>
     </developer>
   </developers>
   <dependencies>
