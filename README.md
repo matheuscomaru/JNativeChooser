@@ -4,14 +4,7 @@ Seletor de arquivos nativo para aplicações Java Swing no Windows usando JNA.
 
 ## Instalação
 
-Adicione a dependência no seu `pom.xml`:
-```xml
-<dependency>
-  <groupId>io.github.matheuscomaru</groupId>
-  <artifactId>JNativeChooser</artifactId>
-  <version>1.0.0</version>
-</dependency>
-```
+Baixe o arquivo `JNativeChooser.jar` na seção de releases deste repositório e adicione-o ao classpath do seu projeto.
 
 ## Exemplo de uso
 
